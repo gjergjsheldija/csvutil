@@ -1,4 +1,4 @@
-module csvutils
+module github.com/gjergjsheldija/csvutils
 
 go 1.18
 
